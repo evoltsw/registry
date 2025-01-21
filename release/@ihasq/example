@@ -1,7 +1,7 @@
 {
   "manifest": 0,
   "name": "@ihasq/example",
-  "display-name": {
+  "displayName": {
     "en": "Example Module",
     "ja": "サンプルモジュール"
   },
