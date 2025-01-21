@@ -1,1 +1,17 @@
-{"host":"gh","path":"ihasq/evolt-registry-demo"}
+{
+  "manifest": 0,
+  "name": "@ihasq/example",
+  "display-name": {
+    "en": "Example Module",
+    "ja": "サンプルモジュール"
+  },
+  "description": {
+    "en": "example module by ihasq.",
+    "ja": "ihasq によるサンプルモジュールです。"
+  },
+  "type": "module",
+  "icon": "https://cdn.evolt.sh/f8wv2xrp",
+  "version": "0.0.1",
+  "host": "gh",
+  "path": "ihasq/evolt-registry-demo"
+}
