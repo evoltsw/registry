@@ -9,6 +9,7 @@
     "en": "example module by ihasq.",
     "ja": "ihasq によるサンプルモジュールです。"
   },
+  "tag": ["module", "my-first-project"],
   "type": "module",
   "icon": "https://cdn.evolt.sh/f8wv2xrp",
   "version": "0.0.1",
