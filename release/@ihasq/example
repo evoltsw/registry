@@ -1,6 +1,9 @@
 {
   "manifest": 0,
+  "uuid": "50b63e5f-9128-4f53-9d07-1ea879978a94",
   "name": "@ihasq/example",
+  "version": "0.0.1",
+  "type": "module",
   "displayName": {
     "en": "Example Module",
     "ja": "サンプルモジュール"
@@ -10,9 +13,7 @@
     "ja": "ihasq によるサンプルモジュールです。"
   },
   "tag": ["module", "my-first-project"],
-  "type": "module",
   "icon": "https://cdn.evolt.sh/f8wv2xrp",
-  "version": "0.0.1",
   "host": "gh",
   "path": "ihasq/evolt-registry-demo"
 }
