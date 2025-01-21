@@ -1,6 +1,6 @@
 {
-  "manifest": 0,
   "uuid": "50b63e5f-9128-4f53-9d07-1ea879978a94",
+  "manifest": 0,
   "name": "@ihasq/example",
   "version": "0.0.1",
   "type": "module",
