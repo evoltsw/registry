@@ -1,0 +1,19 @@
+{
+  "uuid": "025a6acf-ab64-4168-9cdf-21a772aa04c5",
+  "manifest": 0,
+  "name": "@std/editor",
+  "version": "0.0.1",
+  "type": "interface",
+  "displayName": {
+    "en": "Example Interface",
+    "ja": "サンプルインターフェース"
+  },
+  "description": {
+    "en": "example interface by ihasq.",
+    "ja": "ihasq によるサンプルインターフェースです。"
+  },
+  "tag": ["interface", "my-first-project"],
+  "icon": "https://cdn.evolt.sh/9dvnbe5",
+  "host": "gh",
+  "path": "ihasq/evolt-registry-demo"
+}
